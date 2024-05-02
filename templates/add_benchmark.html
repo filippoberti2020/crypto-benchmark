@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProgPowZ Benchmark - Zano</title>
+    <meta name="description" content="Benchmark results of ProgPowZ mining from Zano coin crypto community">
+    <link rel="stylesheet" href='/static/main.css' />
+</head>
+<body>
+    <div class="container">
+        <h1>Add Benchmark</h1>
+        <form action="/add_benchmark_submit" method="post">
+            <label for="make">Make:</label>
+            <input type="text" id="make" name="make" placeholder="NVIDIA, AMD" required><br><br>
+            <label for="model">Model:</label>
+            <input type="text" id="model" name="model" placeholder="RTX 3060 Ti, Radeon 6900 XT" required><br><br>
+            <label for="mining_software">Mining Software:</label>
+            <input type="text" id="mining_software" name="mining_software" placeholder="Wildrig Multi, Progminer"><br><br>
+            <label for="os">Os:</label>
+            <input type="text" id="os" name="os" placeholder="Ubuntu, Windows, Hiveos"><br><br>
+            <label for="hashrate">Hashrate:</label>
+            <input type="text" id="hashrate" name="hashrate" placeholder="9.23 (number value in )" pattern="^\d+(\.\d+)?$" title="Please enter a valid number with up to two decimal places" required><br><br>
+            <label for="notes">Notes:</label>
+            <input type="text" id="notes" name="notes" placeholder="Temp 67C Fan 52% Pwr 154w Eff 0.095 "><br><br>
+            <input type="submit" value="Submit" class="submit-benchmark-btn">
+        </form>
+    </div>
+    
+</body>
+</html>

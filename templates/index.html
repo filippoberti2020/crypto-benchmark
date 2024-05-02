@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProgPowZ Benchmark - Zano</title>
+    <meta name="description" content="Benchmark results of ProgPowZ mining from Zano coin crypto community">
+    <link rel="stylesheet" href='/static/main.css' />
+</head>
+<body>
+    <div class="container">
+        <a href="/add" class="add-benchmark-btn">Add Benchmark</a>
+
+        <h1>Benchmark</h1>
+        <p>Benchmark results of ProgPowZ mining algorithm from Zano coin crypto community.</p>
+        <table border="1">
+            <tr>
+                <th>MAKE</th>
+                <th>MODEL</th>
+                <th>MINING SOFTWARE</th>
+                <th>OS</th>
+                <th>HASHRATE ()</th>
+                <th>NOTES</th>
+            </tr>
+            {% for benchmark in benchmarks %}
+            <tr>
+                <td>{{ benchmark.make }}</td>
+                <td>{{ benchmark.model }}</td>
+                <td>{{ benchmark.mining_software }}</td>
+                <td>{{ benchmark.os }}</td>
+                <td>{{ benchmark.hashrate }}MH/s</td>
+                <td>{{ benchmark.notes }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+    
+    <div class="footer">
+        <p>© 2024 Filippo Berti. This website is an open source free to use template for crypto community. All Rights Reserved.</p>
+    </div>    
+</body>
+</html>

@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #ffffff; /* White text */
+    background-color: #11316b; /* Dark blue background */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 18px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #8E8FFA; /* Lighter blue border */
+}
+
+table th {
+    background-color: #5288fe94;; /* Purple background */
+}
+
+table td {
+    background-color: #ffffff00; /* Light blue background */
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+select {
+    position: relative;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    border: 0.5px solid rgba(255, 255, 255, 0.411);
+}
+
+input[type="submit"] {
+    background-color: #5288fe; /* Lighter blue button */
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #8e9efa; /* Darker purple shade on hover */
+}
+
+.add-benchmark-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #5288fe;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-benchmark-btn:hover {
+    background-color: #8e9efa;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+}

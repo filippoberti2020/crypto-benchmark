@@ -1,0 +1,682 @@
+[
+    {
+        "make": "Nvidia",
+        "model": "1050ti",
+        "mining_software": "wildrig-multi 0.39.4",
+        "os": "Ubuntu 22.04",
+        "hashrate": "5.2 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "RTX 3060",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "22.80 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "RTX 3060 Ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "28.03 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "RTX 3070 Ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "38.28 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 750 Ti",
+        "mining_software": "",
+        "os": "Linux",
+        "hashrate": "3.5 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 750 Ti",
+        "mining_software": "",
+        "os": "Windows",
+        "hashrate": "2 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1050 Ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "7.4 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1050",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "5.4 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1060",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "9.6 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1660",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "10.2 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1080",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "19.3 ",
+        "notes": ""
+    },
+    {
+        "make": "AMD",
+        "model": "Radeon 560",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "5.7 ",
+        "notes": ""
+    },
+    {
+        "make": "AMD",
+        "model": "Radeon 570",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "10 ",
+        "notes": ""
+    },
+    {
+        "make": "AMD",
+        "model": "Radeon 6600",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "12.9 ",
+        "notes": ""
+    },
+    {
+        "make": "AMD",
+        "model": "Radeon 6900 XT",
+        "mining_software": "Linux",
+        "os": "",
+        "hashrate": "33 ",
+        "notes": "205w power limit"
+    },
+    {
+        "make": "AMD",
+        "model": "Radeon 6900 XT",
+        "mining_software": "Windows",
+        "os": "",
+        "hashrate": "35 ",
+        "notes": "250w power limit, windows does not let you lower as much.."
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1060",
+        "mining_software": "Windows",
+        "os": "",
+        "hashrate": "7 ",
+        "notes": "60W, +175 core, +100 mem, 50% PL"
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 980 Ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "15 ",
+        "notes": "245W, +175 Core, +1200 Mem."
+    },
+    {
+        "make": "Nvidia",
+        "model": "3070",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "22.87 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "3070",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "29.5 ",
+        "notes": "125 core, +2000 mem, 180W PL"
+    },
+    {
+        "make": "Nvidia",
+        "model": "3060",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "23.6 ",
+        "notes": "125 core, +2000 mem, 180W PL"
+    },
+    {
+        "make": "Nvidia",
+        "model": "1660 Ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "12.7 ",
+        "notes": "100 core, +800 mem, 90W PL"
+    },
+    {
+        "make": "Nvidia",
+        "model": "1660 Super",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "13.96 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "2060",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "18.2 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "3060",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "24.1 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "3060 Ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "27.5 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1070",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "13.25 ",
+        "notes": "MSI notebook, Core 65 \u00baC +225, mem +600, fans 90%, 100 PL (114W)"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Aorus 2080Ti Xtreme",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "38 ",
+        "notes": "Core 66 \u00baC +145, mem 86 \u00baC +1000, fans 95%, 100% PL (298W). Hot and power hungry but damn, the 3080's do 42-44... not the best for this algo. Plus the GDDR6X runs damn hot"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Gigabyte 1060 3GB",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "10.95 ",
+        "notes": "Core 64 \u00baC +125, mem +550, fans 70 %, 110% PL (130W)"
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1650",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "11.36 ",
+        "notes": "Hp pavilion gaming desktop"
+    },
+    {
+        "make": "Nvidia",
+        "model": "EVGA 3090",
+        "mining_software": "Wildrig Multi",
+        "os": "",
+        "hashrate": "53 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "EVGA 3090",
+        "mining_software": "Ubuntu 20.04",
+        "os": "",
+        "hashrate": "59 ",
+        "notes": "FTW3 Core/Gpu +140, Mem +900, (double core/mem for Windows from my understanding), 82% fan, 61C - currently stable a couple hours in"
+    },
+    {
+        "make": "Nvidia",
+        "model": "1660 Ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "10.8 ",
+        "notes": "max-q laptop +160/-1000 gpu/mem 60w"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Asus 1650 Mobile",
+        "mining_software": "",
+        "os": "Windows",
+        "hashrate": "7.15 ",
+        "notes": "50W - ~1575mhz core 4001mhz mem, max fans, ~68C"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Zotac 3060 Ti OC",
+        "mining_software": "",
+        "os": "Windows",
+        "hashrate": "30 ",
+        "notes": "159W (80% power), 0 core clock +1200 memory, 95% fans, 63-65C"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Zotac 3080 OC",
+        "mining_software": "Hiveos",
+        "os": "",
+        "hashrate": "44.84 ",
+        "notes": "255W, 0 core clock, +1500 memory, 80% fan, 51C"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Zotac 3080 OC",
+        "mining_software": "Hiveos",
+        "os": "",
+        "hashrate": "42 ",
+        "notes": "255W, 0 core clock, +1500 memory, 80% fan, 51C (not sure why this hashes lower, on ETH these are exactly the same)"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Zotac 3070 OC",
+        "mining_software": "Hiveos",
+        "os": "",
+        "hashrate": "28.66 ",
+        "notes": "140W, 0 core clock, +1500 memory, 80% fan, 51C (note I have two and they perform exactly the same)"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Gigabyte 3060 Ti",
+        "mining_software": "Hiveos",
+        "os": "",
+        "hashrate": "26 ",
+        "notes": "135W, 0 core clock, +1500 memory, auto (94%) fan, 53C"
+    },
+    {
+        "make": "Nvidia",
+        "model": "3060 Ti FE",
+        "mining_software": "Hiveos",
+        "os": "",
+        "hashrate": "28 ",
+        "notes": "150W, 0 core clock, +1500 memory, 80% fan, 52"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Asus ROG Strix-GTX 1050TI Oc",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "5.7 ",
+        "notes": "4Gcore +150 power 67% +150 mem 53\u00baC TDP 63w"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Asus Phoenix Gtx 1650 Super Oc",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "10.7 ",
+        "notes": "80% power, +140 core, +300 memory, 60\u00b0c"
+    },
+    {
+        "make": "Nvidia",
+        "model": "MSI 1050 Ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "6 ",
+        "notes": "core: +200, power: 90%, MEM: +360, FAN: 80%"
+    },
+    {
+        "make": "Nvidia",
+        "model": "MSI 1650 Super OC",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "11.7 ",
+        "notes": "90% Power / +115 core / +1500 Memory / 45% Fan Speed / 62\u00b0C"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Gigabyte 1650 SUPER OC",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "10.5 ",
+        "notes": "87% power limit, +150 core, +300 memory, 90% manual fan speed, 75\u00baC"
+    },
+    {
+        "make": "Nvidia",
+        "model": "1650 Ti mobile",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "8 ",
+        "notes": ""
+    },
+    {
+        "make": "AMD",
+        "model": "RX 480 4GB",
+        "mining_software": "Wildrig Multi",
+        "os": "",
+        "hashrate": "13.2 ",
+        "notes": "150 W, 69 degree"
+    },
+    {
+        "make": "AMD",
+        "model": "Radeon VII",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "28.6 ",
+        "notes": "200w (-20% power)"
+    },
+    {
+        "make": "Nvidia",
+        "model": "RTX 3070",
+        "mining_software": "tt-miner",
+        "os": "",
+        "hashrate": "27 ",
+        "notes": "150 core, +850 mem, 150w on tt-miner"
+    },
+    {
+        "make": "Nvidia",
+        "model": "2080 Super",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "38.5 ",
+        "notes": "Evga FTW 3 Watercooled"
+    },
+    {
+        "make": "Nvidia",
+        "model": "1660 Super MSI Gaming Dual Fan",
+        "mining_software": "Wildrig Multi v.39",
+        "os": "",
+        "hashrate": "13.82 ",
+        "notes": "125/-2500 90 W 52 C"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Gigabyte GTX 1660 Ti 6GB",
+        "mining_software": "ttminer on smos",
+        "os": "",
+        "hashrate": "13.12 ",
+        "notes": "89 W 55\u00b0C"
+    },
+    {
+        "make": "Nvidia",
+        "model": "ASUS 1080ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "23 ",
+        "notes": "230W limit, +100/-300"
+    },
+    {
+        "make": "AMD",
+        "model": "RX 580 Ntro 8G",
+        "mining_software": "",
+        "os": "Windows 10 Pro",
+        "hashrate": "9 ",
+        "notes": "Adrenalin 19.4.1"
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1080 dual oc",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "19.15 ",
+        "notes": "180watt"
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 980 Ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "15.157 ",
+        "notes": "244 W 62.117 kH/W c +150 m -201 pw 100% ProgPowZ"
+    },
+    {
+        "make": "AMD",
+        "model": "Vega 56",
+        "mining_software": "Hiveos",
+        "os": "",
+        "hashrate": "18 ",
+        "notes": "1360/900/925 but 180 W"
+    },
+    {
+        "make": "Nvidia",
+        "model": "Asus Strix Gtx 1070",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "15.8 ",
+        "notes": "150 Core, 300 Mem, 80% Power"
+    },
+    {
+        "make": "AMD",
+        "model": "Sapphire Nitro 570 8gb",
+        "mining_software": "Progminer",
+        "os": "Hiveos",
+        "hashrate": "8.95 ",
+        "notes": "1225 core 2100 mem 950mv 115w"
+    },
+    {
+        "make": "AMD",
+        "model": "Vega 64",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "17.65 ",
+        "notes": "175 watt"
+    },
+    {
+        "make": "AMD",
+        "model": "RX 580",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "15 ",
+        "notes": "stock"
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1660 Ti",
+        "mining_software": "Hiveos",
+        "os": "",
+        "hashrate": "14.04 ",
+        "notes": "(average of 6 cards over 6 hours based on pool readings)"
+    },
+    {
+        "make": "AMD",
+        "model": "RX 580 4gb",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "8.9 ",
+        "notes": "1225core (stock or modded bios doesn't seem to make any difference)"
+    },
+    {
+        "make": "AMD",
+        "model": "Vega VII",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "28.5 ",
+        "notes": "1800core 2000mem 19.4.3 drivers 4x gpu+mobo and cpu = 1190W at wall"
+    },
+    {
+        "make": "AMD",
+        "model": "Vega64",
+        "mining_software": "mmpos 2.7.8",
+        "os": "",
+        "hashrate": "24 ",
+        "notes": "1370(set sclk) - 1350(active sclk) 1050 mclk 889mV vddgfx 232W@wall"
+    },
+    {
+        "make": "Nvidia",
+        "model": "P104",
+        "mining_software": "mmpos",
+        "os": "",
+        "hashrate": "14 ",
+        "notes": "150 core -250 mem 135 PL"
+    },
+    {
+        "make": "Nvidia",
+        "model": "P104",
+        "mining_software": "Win10 Build 1709",
+        "os": "",
+        "hashrate": "14 ",
+        "notes": "140 Core +450 Mem 70% TDP"
+    },
+    {
+        "make": "Nvidia",
+        "model": "1080 Ti",
+        "mining_software": "Win10 Build 1709",
+        "os": "",
+        "hashrate": "22 ",
+        "notes": "100 Core +300 Mem 75% TDP"
+    },
+    {
+        "make": "AMD",
+        "model": "Vega 64",
+        "mining_software": "Windows 10",
+        "os": "",
+        "hashrate": "22 ",
+        "notes": "with 1356/1100/850"
+    },
+    {
+        "make": "AMD",
+        "model": "Vega 64",
+        "mining_software": "Windows 10",
+        "os": "",
+        "hashrate": "19.06 ",
+        "notes": "with 1192/800/838"
+    },
+    {
+        "make": "Nvidia",
+        "model": "1080 Ti",
+        "mining_software": "Windows 10",
+        "os": "",
+        "hashrate": "20 ",
+        "notes": "No OC, ALL STOCK.... for a total of 51 pool has me at 60, but these are direclty from the miners themselves."
+    },
+    {
+        "make": "AMD",
+        "model": "RX 470",
+        "mining_software": "",
+        "os": "Windows 10",
+        "hashrate": "11 ",
+        "notes": "No OC, ALL STOCK.... for a total of 51 pool has me at 60, but these are direclty from the miners themselves."
+    },
+    {
+        "make": "AMD",
+        "model": "RX 570",
+        "mining_software": "",
+        "os": "Windows 10",
+        "hashrate": "13 ",
+        "notes": "No OC, ALL STOCK.... for a total of 51 pool has me at 60, but these are direclty from the miners themselves."
+    },
+    {
+        "make": "AMD",
+        "model": "RX 580",
+        "mining_software": "",
+        "os": "Windows 10",
+        "hashrate": "15 ",
+        "notes": "No OC, ALL STOCK.... for a total of 51 pool has me at 60, but these are direclty from the miners themselves."
+    },
+    {
+        "make": "Nvidia",
+        "model": "RTX 2070",
+        "mining_software": "",
+        "os": "Windows 10",
+        "hashrate": "22 ",
+        "notes": "No OC, ALL STOCK.... for a total of 51 pool has me at 60, but these are direclty from the miners themselves."
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1070 Ti",
+        "mining_software": "Hiveos",
+        "os": "",
+        "hashrate": "14 ",
+        "notes": "100 core, 600mem 150 watts (~83%)"
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1070 Ti",
+        "mining_software": "Hiveos",
+        "os": "",
+        "hashrate": "11.5 ",
+        "notes": "50 core, 400mem, 115 watts (~64%)"
+    },
+    {
+        "make": "Nvidia",
+        "model": "GTX 1060",
+        "mining_software": "Hiveos",
+        "os": "",
+        "hashrate": "8 ",
+        "notes": "150 core 600mem 80watt PL"
+    },
+    {
+        "make": "AMD",
+        "model": "Vega 56",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "18.4 ",
+        "notes": ""
+    },
+    {
+        "make": "AMD",
+        "model": "Vega 64",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "22 ",
+        "notes": ""
+    },
+    {
+        "make": "AMD",
+        "model": "RX 580 8gb",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "10.2 ",
+        "notes": "144w"
+    },
+    {
+        "make": "Nvidia",
+        "model": "1080 Ti",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "21 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "1060",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "9 ",
+        "notes": ""
+    },
+    {
+        "make": "Nvidia",
+        "model": "1080 no OC",
+        "mining_software": "",
+        "os": "",
+        "hashrate": "15 ",
+        "notes": ""
+    },
+    {
+        "make": "AMD",
+        "model": "RX 5600 XT",
+        "mining_software": "Wildrig Multi",
+        "os": "Windows 10",
+        "hashrate": "15.16 ",
+        "notes": "Temp 67C Fan 52% Pwr 154w Eff 0.095 CClk 1734 MClk 1748"
+    }
+]
