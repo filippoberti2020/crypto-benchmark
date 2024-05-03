@@ -100,3 +100,17 @@ input[type="submit"]:hover {
     text-align: center;
     padding: 10px 0;
 }
+
+.footer a {
+    color: #5288fe; /* Default text color */
+    text-decoration: none; /* Remove underline from the link */
+    transition: color 0.3s; /* Smooth transition for color change */
+}
+
+.footer a:hover {
+    color: #8e9efa; /* Text color on hover */
+}
+
+.footer a:active {
+     color: #8e9efa;/* Text color when clicked */
+}
