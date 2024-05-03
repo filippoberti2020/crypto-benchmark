@@ -1,5 +1,7 @@
 # Crypto Mining Benchmark Platform
 
+![Preview of the GNOME extension](preview.png)
+
 ## Overview
 
 This repository contains a web application designed to display and collect mining benchmarks, specifically tailored for the Zano cryptocurrency community. Built with Flask, a lightweight Python web framework, it provides a simple interface for users to view and submit their mining benchmark data. This open-source project is intended to serve as a template that can be adapted by other cryptocurrency communities.
